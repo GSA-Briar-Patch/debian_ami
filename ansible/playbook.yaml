@@ -12,7 +12,7 @@
     clamav_freshclam_daemon_enabled: yes
 
     # SSH admin local
-    sshd_admin_net: [207.244.0.0/24, 207.244.1.0/24]
+    sshd_admin_net: [159.142.0.0/24]
 
     # Cloudwatch Logs Role configuration
     awslogs_setup_region: us-east-1
